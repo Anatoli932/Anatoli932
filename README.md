@@ -79,6 +79,7 @@
 ## 🪴 Практика и стажировка
 [<img src="/Sertefikat 8.png" width="280px" hspace="10px" alt="Сертификат об окончании 8 спринта»">](https://github.com/Anatoli932/Anatoli932/blob/main/Sertefikat%208.png)
 [<img src="/Sert.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/Anatoli932/Anatoli932/blob/main/Sert.png)
+[<img src="/Sert.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/Anatoli932/Anatoli932/blob/main/Sert.png)
 [<img src="/Sertifikat.png" width="280px" hspace="10px" alt="Сертификат полный курс»">](https://github.com/Anatoli932/Anatoli932/blob/main/Sertifikat.png)
 
 <br>
