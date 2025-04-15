@@ -82,7 +82,7 @@
 [<img src="/Сертификат ВШЭ.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/Anatoli932/Anatoli932/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%92%D0%A8%D0%AD.png)
 [<img src="/anatolij_holmov-peak.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/Anatoli932/Anatoli932/blob/main/anatolij_holmov-peak.png)
 [<img src="/Sertifikat.png" width="280px" hspace="10px" alt="Сертификат полный курс»">](https://github.com/Anatoli932/Anatoli932/blob/main/Sertifikat.png)
-
+[<img src="/Anatoly sajt_medve.diva.png" width="280px" hspace="10px" alt="Сертификат на стажировку»">](https://github.com/Anatoli932/Anatoli932/blob/main/Anatoly%20sajt_medve.diva.png)
 <br>
 
 ## 🎒 Образование
