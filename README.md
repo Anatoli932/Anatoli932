@@ -86,7 +86,7 @@
 <br>
 
 ## 🪴 Сертификаты
-[<img src="/sertifikat2026.pdf" width="280px" hspace="10px" alt="Сертификат»">](https://github.com/Anatoli932/Anatoli932/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.png)
+[<img src="/sertifikat2026.png" width="280px" hspace="10px" alt="Сертификат»">](https://github.com/Anatoli932/Anatoli932/blob/main/sertifikat2026.png)
 
 ## 🎒 Образование
 [<img src="/Диплом.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/Anatoli932/Anatoli932/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.png)
